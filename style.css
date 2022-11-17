@@ -1,7 +1,7 @@
 body{
     background-color: black;
 }
-h2{
+h2,p{
     color: whitesmoke;
     display: flex;
     justify-content: center ;
